@@ -2,6 +2,6 @@
 
 int main()
 {
-  int a = 1;
-  std::cout<<a<<std::endl;
+  int b = 1;
+  std::cout<<b<<std::endl;
 }
