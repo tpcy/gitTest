@@ -2,6 +2,6 @@
 
 int main()
 {
-  int b = 1;
+  int c = 1;
   std::cout<<b<<std::endl;
 }
